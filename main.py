@@ -1,4 +1,4 @@
-from ipaddress import collapse_addresses
+
 import random
 # global constant...something that doesn't ever change
 
